@@ -1,0 +1,1 @@
+{"name":"casa2026-multi-anos","version":"3.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.18.2","node-fetch":"^2.6.7"}}
